@@ -2,4 +2,4 @@
 - cd Plutus-Devcontainer
 - cd .devcontainer
 - docker-compose up
-- [https://youtu.be/BcwCQw9tOec](https://youtu.be/BcwCQw9tOec)
+- [https://youtu.be/x7W2-Veqfps](https://youtu.be/x7W2-Veqfps)
